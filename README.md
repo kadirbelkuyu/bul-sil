@@ -1,3 +1,5 @@
+opencv kullanarak data dosyasının içerisindeki aynı dosyaları bularak sonrasında silmek için yazılmış python programıdır.
+
 #kurulum
 
 pip install -r requirements.txt
