@@ -1,2 +1,8 @@
-# bul-sil
-Open cv kullanarak data dosyasının içindeki aynı resimleri bularak sonrasında silen python programıdır.
+#kurulum
+
+pip install -r requirements.txt
+
+#kullanım 
+
+python bul-sil.py --datafile dataset 
+python bul-sil.py --datafile dataset --remove 1
